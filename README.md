@@ -1,4 +1,4 @@
-### Hi Guys 👋, my name is Tifany
+### Hi guys 👋, my name is Tifany
 #### I'm a developer student
 Here is my **training** place.
 In the future it will house my projects!
